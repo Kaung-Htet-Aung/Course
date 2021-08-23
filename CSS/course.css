@@ -1,0 +1,28 @@
+body{
+	background: skyblue;
+	font-family: serif;
+	font-weight: bold;
+}
+.cal{
+	display: none;
+}
+.form-control{
+	border: 2px solid brown;
+}
+.input-group-text{
+  background: brown;
+  color: white;
+  border: brown;
+}
+.complete{
+	border: 3px solid green;
+}
+.fail{
+	border: 3px solid red;
+}
+.loading{
+	display: none;
+}
+.showItem{
+	display: block;
+}
